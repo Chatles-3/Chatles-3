@@ -1,8 +1,5 @@
 ## Hi everyone! 👋
 
-<!--
-**Chatles-3/Chatles-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Charlie Somervell! I'm currently a student at Washington and Lee University studying mathematics, politics, and data science.
 
 - 😄 Pronouns: He/Him
@@ -12,4 +9,3 @@ My name is Charlie Somervell! I'm currently a student at Washington and Lee Univ
 - 💬 Ask me about my music tastes. I'm a huge ABBA and Fleetwood Mac fan! Something I think constantly about is Fleetwood Mac's 1997 live performance of "Silver Springs."
 - 📫 How to reach me: csomervell@mail.wlu.edu (School E-Mail) or somervellc3@gmail.com (Personal E-Mail)
 - ⚡ Fun fact: I have five cats and two dogs! I love them all, but I'm definitely more of a cat person 😺
--->
